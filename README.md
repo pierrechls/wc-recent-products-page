@@ -14,4 +14,4 @@ Recent Products Page for WooCommerce is an extension for Woocommerce. I develope
 
 ## 📚 Documentation
 
-WIP :construction:
+For all additionnal informations, please follow the  [documentation](https://docs.woocommerce.com/).
